@@ -5,11 +5,14 @@ Currently handles NAs only.
 
 There are three basic functions as part of this package.
 
-1) check_NA
+# 1) check_NA
+
 This function checks whethere there are NA in the data frame.
 
-2) find_NA
+# 2) find_NA
+
 This function locates rows and columns in a data frame having NA.
 
-3) fix_NA
+# 3) fix_NA
+
 This function replaces NAs by the blanks.
