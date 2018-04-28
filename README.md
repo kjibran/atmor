@@ -36,3 +36,10 @@ atmor::check_NA(dat)
 atmor::find_NA(dat)
 atmor::fix_NA(dat)
 ```
+
+# Example
+
+```
+atmor::check_NA(dat)
+#[1] "NA exists"
+```
