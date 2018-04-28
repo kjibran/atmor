@@ -16,3 +16,5 @@ This function locates rows and columns in a data frame having NA.
 # 3) fix_NA
 
 This function replaces NAs by the blanks.
+
+The sample data is also provided to test the package.
