@@ -32,6 +32,7 @@ The sample data is also provided to test the package. However, users are welcome
 
 ```
 library(atmor)
+#assuming dat=dataset to be tested
 atmor::check_NA(dat)
 atmor::find_NA(dat)
 atmor::fix_NA(dat)
