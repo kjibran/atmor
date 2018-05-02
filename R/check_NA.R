@@ -11,9 +11,9 @@
 check_NA <- function(dat){
   
   # check for NAs in all columns
-  NA_det[] <- apply(dat, 2, function(x) any(is.na(x)))
+  NA_det <- apply(dat, 2, function(x) any(is.na(x)))
   
-  if ("TRUE" %in% NA_det[]){
+  if ("TRUE" %in% NA_det){
     msg <- "NA exists"
   } else{
     msg <- "NA does not exist"}
