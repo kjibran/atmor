@@ -2,7 +2,6 @@
 #' Sample data to test the package and its functions, is also provided
 #' 
 #' @param dat input dataset. Currently only supports \code{data.frame}. While, \code{data.table} is not supported.
-#' @import openair
 #' @export
 
 #Start of function
