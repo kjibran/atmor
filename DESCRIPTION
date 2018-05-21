@@ -3,7 +3,7 @@ Title: This package checks and replaces NAs by blanks in "data.frame"
 Version: 0.1
 Authors@R: person("Jibran", "Khan", email = "jibran@envs.au.dk", role = c("aut", "cre"))
 Description: This is an experimental package. It tests and replaces NAs by blanks. Currenty only supports data.frame format.
-Depends: R (>= 3.5.0)
+Depends: openair
 License: Free
 Encoding: UTF-8
 LazyData: true
