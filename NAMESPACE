@@ -3,4 +3,3 @@
 export(check_NA)
 export(find_NA)
 export(fix_NA)
-import(openair)
