@@ -3,7 +3,8 @@
 \name{fix_NA}
 \alias{fix_NA}
 \title{Function to replace NAs with blanks
-Sample data to test the package and its functions, is also provided}
+Sample data to test the package and its functions, is also provided
+MKE added this comment to check GIT}
 \usage{
 fix_NA(dat)
 }
@@ -13,4 +14,5 @@ fix_NA(dat)
 \description{
 Function to replace NAs with blanks
 Sample data to test the package and its functions, is also provided
+MKE added this comment to check GIT
 }
