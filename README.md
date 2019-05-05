@@ -17,6 +17,9 @@ This function locates rows and columns in a data frame having NA.
 ```fix_NA```
 This function replaces NAs with blanks.
 
+```mysummary```
+Added just to test addition of new fucntion to an existing R package.
+
 
 # Installation
 
